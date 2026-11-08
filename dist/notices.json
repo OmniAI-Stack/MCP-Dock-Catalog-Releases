@@ -1,0 +1,26 @@
+{
+  "use-detail-tool": {
+    "en": "Note from MCP Dock: this answer was shortened to the main fields. Use the tool {tool} for details.",
+    "cs": "Poznámka MCP Docku: tato odpověď byla zkrácena na hlavní pole. Podrobnosti vrátí nástroj {tool}.",
+    "de": "Hinweis von MCP Dock: Diese Antwort wurde auf die wichtigsten Felder gekürzt. Details liefert das Werkzeug {tool}.",
+    "es": "Nota de MCP Dock: esta respuesta se acortó a los campos principales. Usa la herramienta {tool} para ver los detalles.",
+    "fr": "Note de MCP Dock : cette réponse a été réduite aux champs principaux. Utilisez l'outil {tool} pour les détails.",
+    "pt": "Nota do MCP Dock: esta resposta foi reduzida aos campos principais. Use a ferramenta {tool} para ver os detalhes."
+  },
+  "fields-kept": {
+    "en": "Note from MCP Dock: this answer was shortened, only these fields were kept: {fields}.",
+    "cs": "Poznámka MCP Docku: tato odpověď byla zkrácena, zůstala jen tato pole: {fields}.",
+    "de": "Hinweis von MCP Dock: Diese Antwort wurde gekürzt, nur diese Felder blieben erhalten: {fields}.",
+    "es": "Nota de MCP Dock: esta respuesta se acortó, solo se conservaron estos campos: {fields}.",
+    "fr": "Note de MCP Dock : cette réponse a été réduite, seuls ces champs ont été conservés : {fields}.",
+    "pt": "Nota do MCP Dock: esta resposta foi reduzida, apenas estes campos foram mantidos: {fields}."
+  },
+  "fields-removed": {
+    "en": "Note from MCP Dock: large fields were removed from this answer: {fields}.",
+    "cs": "Poznámka MCP Docku: z této odpovědi byla odebrána velká pole: {fields}.",
+    "de": "Hinweis von MCP Dock: Große Felder wurden aus dieser Antwort entfernt: {fields}.",
+    "es": "Nota de MCP Dock: se quitaron campos grandes de esta respuesta: {fields}.",
+    "fr": "Note de MCP Dock : de grands champs ont été retirés de cette réponse : {fields}.",
+    "pt": "Nota do MCP Dock: campos grandes foram removidos desta resposta: {fields}."
+  }
+}

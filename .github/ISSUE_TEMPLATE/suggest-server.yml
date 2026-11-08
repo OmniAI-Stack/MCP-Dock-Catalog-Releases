@@ -1,0 +1,59 @@
+name: Suggest a server
+description: Tell us about an MCP server that should be in the MCP Dock catalog. We check every server before we add it.
+title: "Suggest server: "
+labels: ["server-suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for the tip. MCP Dock lists only servers we have checked ourselves, so it can take a while.
+        **Never paste an API key, a token or a password here.** This issue is public.
+  - type: input
+    id: name
+    attributes:
+      label: Server name
+      placeholder: e.g. Google Stitch
+    validations:
+      required: true
+  - type: input
+    id: homepage
+    attributes:
+      label: Website or repository
+      description: Where the server comes from (the vendor's page or its GitHub repository).
+      placeholder: https://
+    validations:
+      required: true
+  - type: input
+    id: docs
+    attributes:
+      label: Technical documentation
+      description: A page that describes how to connect to the server, if there is one.
+      placeholder: https://
+  - type: input
+    id: url
+    attributes:
+      label: Server address (remote servers only)
+      description: The MCP endpoint, without any key in it.
+      placeholder: https://example.com/mcp
+  - type: dropdown
+    id: auth
+    attributes:
+      label: How does it sign in?
+      options:
+        - No sign-in
+        - API key in a header
+        - OAuth (sign in in the browser)
+        - Local program on the computer
+        - I don't know
+    validations:
+      required: true
+  - type: input
+    id: auth-note
+    attributes:
+      label: Sign-in as MCP Dock saw it
+      description: Filled in by MCP Dock when you suggest a server you added yourself. You can leave it as it is.
+  - type: textarea
+    id: note
+    attributes:
+      label: Why would it be useful?
+      description: What you use it for, and anything we should know.

@@ -1,0 +1,4 @@
+# Text files of the repository use LF.
+* text=auto eol=lf
+# Published catalog files are kept byte for byte, so the checksums and the signature stay valid.
+dist/** -text

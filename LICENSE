@@ -1,0 +1,35 @@
+# Proprietary License
+
+Copyright (c) 2026 OmniAI-Stack (https://github.com/OmniAI-Stack). All rights reserved.
+
+## 1. No rights granted
+
+This repository, including the generated catalog files in `dist/`, the signature, the texts and translations, the icons and the documentation (the "Catalog"), is the proprietary property of the copyright holder.
+
+The repository is public only so that the official MCP Dock application can download the Catalog. Being able to read it does not grant any license, right or permission of any kind, whether express or implied. In particular, without prior written permission of the copyright holder you may not:
+
+1. copy, mirror, republish or redistribute the Catalog, in whole or in part;
+2. modify, merge, translate or create derivative works of the Catalog;
+3. use the Catalog, or any part of it, in another application, service, registry or catalog;
+4. use the Catalog, or any part of it, to train, fine-tune or evaluate machine learning models;
+5. remove or alter this notice or any other notice of ownership.
+
+## 2. Use by MCP Dock
+
+The official MCP Dock application may download, verify and show the Catalog to its users. This permission covers only that application and only for showing and installing the listed servers.
+
+## 3. Third parties
+
+The MCP servers listed in the Catalog are third-party software under their own licenses; the Catalog only describes how to install them. Names, logos and trademarks of third parties, including the names and icons of the listed MCP servers and their publishers, belong to their owners and are used only to identify their products.
+
+## 4. No warranty
+
+THE CATALOG IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE CATALOG OR ITS USE, INCLUDING THE USE OF ANY LISTED MCP SERVER.
+
+## 5. Termination
+
+Any use in breach of this license ends immediately any permission granted to you, and you must delete all copies of the Catalog in your possession.
+
+## 6. Contact
+
+Requests for permission go to the copyright holder through https://github.com/OmniAI-Stack.

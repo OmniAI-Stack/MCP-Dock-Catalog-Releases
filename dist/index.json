@@ -1,0 +1,38 @@
+[
+  {
+    "id": "filesystem",
+    "name": "Filesystem",
+    "publisher": "modelcontextprotocol",
+    "category": "files",
+    "tags": [
+      "files",
+      "local"
+    ],
+    "verified": true,
+    "summary": "Lets the AI read and write files in chosen folders.",
+    "sha256": "e8067fbb9220d613eb38ef238ba2d1c03113bc8ce7740897050357ce1c64d4cc"
+  },
+  {
+    "id": "google-stitch",
+    "name": "Google Stitch",
+    "publisher": "google",
+    "category": "design",
+    "tags": [
+      "design",
+      "ui"
+    ],
+    "verified": true,
+    "summary": "AI design of user interfaces.",
+    "sha256": "92b883c31de7e237b791a180e9851d2907889927ec246cf84c71ef78b6cac1fb"
+  },
+  {
+    "id": "rohlik",
+    "name": "Rohlik",
+    "publisher": "rohlik",
+    "category": "other",
+    "tags": [],
+    "verified": false,
+    "summary": "Grocery shopping at Rohlík.",
+    "sha256": "39c45e11dc8739423dd728611447e1cf4c66091de70c4a3c3fb4822607e29c86"
+  }
+]
