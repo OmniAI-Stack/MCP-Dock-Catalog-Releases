@@ -115,7 +115,7 @@
   },
   "requires": [],
   "apps": {
-    "claude-desktop": {
+    "claude-windows": {
       "status": "tested"
     }
   }

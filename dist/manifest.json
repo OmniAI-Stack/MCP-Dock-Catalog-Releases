@@ -1,21 +1,21 @@
 {
   "schema": 1,
-  "version": "2026.11.07.3",
+  "version": "2026.11.09.1",
   "minAppVersion": "0.1.62",
   "serverCount": 3,
-  "contentHash": "6e6aff93ad9e106eed2473de8afe9867a7d3e7c84bcd3146e78125291613ca14",
+  "contentHash": "d5fde01f595f75d9ed00cfb37b0de23512ccbdf3b8fd1e2384dd309f0f223acd",
   "files": {
     "categories.json": "7741e90d064d516d0bee115d9da7332f6e4d09d38b68e2be72c5ef36ae5819f8",
     "index.cs.json": "6ad68ecfde316eae1c8bddd19dca5660fa3cc63e24a5c71ca12bed44cdf8eb80",
     "index.de.json": "fef8121f2d4b6c59209735628b60de42e51f9c3bc23f90591f6198ee1cde791a",
     "index.es.json": "3fb17896a52080a169030db02779b724023ca92797dae1bc11240871bbf5789a",
     "index.fr.json": "7635ca6388c75acbdc47cd48437a5207a7f0776a4eed5c9955c06975471852b7",
-    "index.json": "ad6a7b8ba4669eed1375a4fbc0c2fa563b7ea992616649f47d8325395a5dfc3e",
+    "index.json": "52ce1afd7eba68192b02f34fb51824b74d86e1f73d8c6e642eab43843bd2266d",
     "index.pt.json": "090dabd9a8bd231dd194c4ae90e179da57306b4c21d7ea368199a29ae65daea6",
     "notices.json": "51dc2d43e349e33bbd2a590900b7fea83f2b1a1f8fe7993aa96f51be05268931",
     "publishers.json": "4fd92cb92e0ce554ae9f6933403bb4e64fdbf3292b20085e4d584b44fbafe158",
     "servers/filesystem.json": "e8067fbb9220d613eb38ef238ba2d1c03113bc8ce7740897050357ce1c64d4cc",
-    "servers/google-stitch.json": "92b883c31de7e237b791a180e9851d2907889927ec246cf84c71ef78b6cac1fb",
+    "servers/google-stitch.json": "760b26692848b8da2880255e440efd507773f24f44bbb6d55dcf6214f6b9da22",
     "servers/rohlik.json": "39c45e11dc8739423dd728611447e1cf4c66091de70c4a3c3fb4822607e29c86",
     "tags.json": "216ab94cda934990e6ddfe3c1f2d97b087bcffa97d2212bcdd9dce4e79468f1f"
   }

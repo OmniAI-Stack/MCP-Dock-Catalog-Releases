@@ -9,7 +9,7 @@
 ![Generated](https://img.shields.io/badge/content-generated%20only-informational)
 ![License](https://img.shields.io/badge/license-proprietary-critical)
 
-Signed releases of the server catalog of **MCP Dock**, the Windows app that adds, protects and watches MCP servers in AI apps such as Claude Desktop and Cursor.
+Signed releases of the server catalog of **MCP Dock**, the Windows app that adds, protects and watches MCP servers in AI apps such as Claude for Windows and Cursor.
 
 This repository holds only the generated catalog files. The MCP Dock app downloads them from here, checks the signature and the checksums, and shows the servers to its users. The sources of the catalog are maintained privately.
 
